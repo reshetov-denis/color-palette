@@ -7,5 +7,4 @@ eel.init("media")
 def exitApp():
 	keyboard.send("alt+f4")
 
-
 eel.start("index.html")
